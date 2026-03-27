@@ -1,0 +1,1 @@
+litellm --config copilot-config.yaml
